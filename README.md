@@ -36,7 +36,7 @@ This project focuses on analyzing employee attrition trends using Power BI. The 
 
 ## 📷 Dashboard Preview
 
-HR ANALYTICS.png
+https://raw.githubusercontent.com/samueleje2002-maker/HR-Analytics-Attrition-Analysis/refs/heads/main/HR%20ANALYTICS.png
 
 ## 📂 Project Files
 - HR-Analytics-Dashboard.pbix
